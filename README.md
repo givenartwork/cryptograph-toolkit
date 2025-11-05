@@ -118,7 +118,3 @@ python venv/main.py
 
 - If `bcrypt` raises build or import issues, ensure you’re using the activated virtual environment and that your Python version matches wheels available for your platform.
 - If `cryptography` fails to import, reinstall dependencies inside the active environment: `pip install -r requirements.txt`.
-
-### License
-
-MIT (or your preferred license). Update this section as needed.
