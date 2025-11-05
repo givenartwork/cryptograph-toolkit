@@ -1,4 +1,4 @@
-## Cryptograph Toolkit
+## Cryptograph Toolkit 🔐
 
 A simple, interactive toolkit for hashing files, checking file integrity, performing AES/RSA encryption-decryption demos, and basic password hygiene (strength checks and verification).
 
@@ -81,6 +81,10 @@ Select operation:
 5. Password Manager
 0. Exit
 ```
+
+### Quick demo
+
+![Quick demo showing AES flow](docs/quick-demo.png)
 
 ### Usage details
 
